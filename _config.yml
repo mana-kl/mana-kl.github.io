@@ -17,7 +17,7 @@ title: Lakshmi M Konduri
 email: lmkonduri6@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog and portfolio
-baseurl: "/mana-kl.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "/mana-kl.github.io" # the subpath of your site, e.g. /blog
 url: "https://mana-kl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: lakshmikonduri
